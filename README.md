@@ -82,3 +82,10 @@ Menunggu 30 detik sebelum request berikutnya...
 
 - Pastikan URL API (`NodeId`) benar sebelum menjalankan skrip.
 - Pastikan file `keywords.txt` tersedia dan berisi setidaknya satu kata kunci.
+
+## Donasi
+
+Jika Anda merasa terbantu dengan bot ini, Anda dapat memberikan dukungan melalui:
+
+- Crypto: `0xede7fa099638d4f39931d2df549ac36c90dfbd26`
+- Saweria: [https://saweria.co/crxanode](https://saweria.co/crxanode)
