@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Konfigurasi
-URL="https://0x8b5183691ad14fbb45e5e0ce54f1a00872ae762c.gaia.domains/v1/chat/completions"
+URL="https://idnodemu.gaia.domains/v1/chat/completions"
 HEADERS=(-H "accept: application/json" -H "Content-Type: application/json")
 KEYWORDS_FILE="keywords.txt"
 INTERVAL=30 # Interval dalam detik
