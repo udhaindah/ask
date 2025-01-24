@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Konfigurasi
-URL="https://0x371e282536c05146b64beca9961ef9d0c0f31e07.gaia.domains/v1/chat/completions"
+URL="https://0xdc568df4e1f27cf67ce8cada587e20402f6a4627.gaia.domains/v1/chat/completions"
 HEADERS=(-H "accept: application/json" -H "Content-Type: application/json")
 KEYWORDS_FILE="keywords.txt"
 INTERVAL=30 # Interval dalam detik
